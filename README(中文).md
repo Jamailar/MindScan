@@ -1,5 +1,5 @@
 
-![[mindscan.jpg]]
+![](images/mindscan.jpg)
 <h1 align="center">MindScan</h1>
 
 <center> Create an AI that dreams and knows itself. </center>
